@@ -1,0 +1,90 @@
+body{
+    margin: 2%;
+    margin-left: 10%;
+}
+
+.container{
+    background-color: rgb(255, 255, 255);
+}
+.section-body{
+    
+    
+    border-right: 1px solid white;
+}
+
+
+.avatar{
+    height: 250px;
+   
+
+   
+}
+.section-name{
+    font-family: sans-serif;
+   ;
+}
+.contact{
+    color: rgb(71, 126, 204);
+    font-size: 12px;
+    margin-bottom: 5px;
+   
+    font-family: sans-serif;
+}
+.contact a{
+    margin-left: 15px; 
+}
+.section-name p{
+    font-family: sans-serif;
+    font-size: 12px; 
+}
+.education{
+    font-family: sans-serif;
+   padding-left: 30px;
+    margin-top: 25px;
+    border-top: 2px solid rgb(180, 176, 176);
+   
+}
+.info{
+  font-family: sans-serif; 
+  font-size: 14px;   
+}
+.section-footer{
+   margin-top: 10px;
+   height: 100px;
+   
+}
+.star{
+margin: 0;  
+color: orange;
+font-size: 20px;
+}
+.skills{
+ margin: 0;  
+font-size: 18px;
+}
+.skill-info{
+   margin-bottom: 20px;
+}
+
+.header-skills{
+   margin-bottom: 10px;
+   color: rgb(71, 126, 204);
+}
+.section-title{
+color: rgb(71, 126, 204);
+margin-top: 5px;
+}
+.section-year{
+color: rgb(71, 126, 204);
+margin-top: 5px; 
+}
+.section-sidebar{
+   width: 100px;
+}
+.info span{
+   margin-right: 5px;
+}
+#icon{
+   margin-bottom: 5px;
+   font-size: 25px;
+}
