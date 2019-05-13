@@ -1,0 +1,132 @@
+body{
+    height: 600vh;
+      /* margin-left: 60%;
+      
+      height: 10vh;
+      margin-top: 30px; */
+   
+
+  }
+  #navbarNav{
+      
+      height: 150px;
+  }
+  .nav-link{
+    margin: 5px;
+      font-family: sans-serif;
+      font-size: 20px;
+     
+  }
+  .nav-link:hover{
+      border-bottom: 2px solid black;
+      color:rgb(87, 133, 185);
+  }
+  #brand{
+     margin-left: 5%; 
+  }    
+  #landing{
+   background-image: url(img/baner.png) ;
+   background-repeat: no-repeat;
+   height: 70vh;
+   
+  }
+ #hello{
+   text-shadow: 3px 3px black; 
+     font-size: 50px;
+     color:white;
+     margin-top: 15%;
+    
+ }
+
+ #h1{
+  
+   font-size: 50px;
+ }
+#button_page{
+background-image: url(img/shorts.png) ;
+   background-repeat: no-repeat;
+   height: 40vh;
+   width: 102%;
+  color: white;
+  text-shadow: 1px 3px black; 
+  
+
+}
+#btn1{
+width: 160px;
+height:35px;
+font-size: 16px;
+border-radius: 30px;
+color:rgb(0, 0, 0);
+border: 1px solid white;
+border-radius: 200px; 
+}
+#btn1:hover{
+background-color: none;
+opacity: 0.6;
+}
+#iudicabit{
+letter-spacing: 10px;
+font-size: 50px;
+text-shadow: 0px 3px black; 
+font-weight: bold;
+}
+#lock{
+font-weight: bold;
+}
+#nawsolid{
+font-weight: bold;
+}
+#mei{
+background-image: url(img/mei.png) ;
+   background-repeat: no-repeat;
+
+}
+#cibo{
+background-image: url(img/cibo.png) ;
+   background-repeat: no-repeat;
+   
+
+}#eum{
+background-image: url(img/eum.png) ;
+   background-repeat: no-repeat;
+height: 50vh;
+}
+#line1{
+  
+ 
+  
+  border-bottom:8px solid black;
+}
+#line2{
+ 
+  
+  border-bottom:8px solid black;
+}
+#line3{
+  
+  
+  border-bottom:8px solid black;
+}
+#signhead{
+  font-weight: bold;
+  font-size: 60px;
+}
+#corrrumpit{
+  font-weight: bold;
+  font-size: 40px;
+}
+#corr{
+  font-weight: bold;
+  font-size: 28px;
+}
+
+@media (max-width:999px){
+  .nav-link{
+    margin: 1px;
+      font-family: sans-serif;
+      font-size: 12px;
+     
+  }
+ 
+}
