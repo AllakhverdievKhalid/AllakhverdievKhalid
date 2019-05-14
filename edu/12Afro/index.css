@@ -130,3 +130,8 @@ height: 50vh;
   }
  
 }
+@media (min-width:483px){
+  body{
+    display:block;
+  }
+}
