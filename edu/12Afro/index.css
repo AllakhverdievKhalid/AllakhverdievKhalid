@@ -130,8 +130,4 @@ height: 50vh;
   }
  
 }
-@media (min-width:483px){
-  body{
-    width: 483px;
-  }
-}
+
