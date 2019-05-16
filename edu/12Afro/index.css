@@ -121,13 +121,5 @@ height: 50vh;
   font-size: 28px;
 }
 
-@media (max-width:999px){
-  .nav-link{
-    margin: 1px;
-      font-family: sans-serif;
-      font-size: 12px;
-     
-  }
- 
-}
+
 
