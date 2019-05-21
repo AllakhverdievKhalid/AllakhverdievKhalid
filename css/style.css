@@ -97,11 +97,13 @@ margin-top: 5px;
     .section-body{
         width: 100%;
     }
+    .contact {
+        font-size: 6px;
+    }
     .contact a{
-        margin-left: 2px;
+        margin-left: 0;
     }
     .section-name{
-        display: flex;
-        align-items: flex-start;
+      
     }
   }
