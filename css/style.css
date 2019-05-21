@@ -94,4 +94,7 @@ margin-top: 5px;
     .section-sidebar{
         display: none;
     }
+    .section-body{
+        width: 100%;
+    }
   }
