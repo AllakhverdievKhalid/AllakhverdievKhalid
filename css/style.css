@@ -95,7 +95,8 @@ margin-top: 5px;
         display: none;
     }
     .section-body{
-        width: 100%;
+       margin: 0%;
+       padding: 0;
     }
     .contact {
         font-size: 12px;
