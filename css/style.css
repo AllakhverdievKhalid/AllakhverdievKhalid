@@ -95,19 +95,19 @@ margin-top: 5px;
         display: none;
     }
     .section-body{
-       margin: 0%;
-       padding: 20px;
+     
+      
     }
     .contact {
         font-size: 12px;
     }
     .contact a{
-        margin-left: 5;
+       
     }
     .section-name{
       font-size: 18px;
     }
     .avatar{
-        padding: 20px;
+       width: 100%;
     }
   }
