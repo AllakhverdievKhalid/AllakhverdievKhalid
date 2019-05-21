@@ -97,4 +97,7 @@ margin-top: 5px;
     .section-body{
         width: 100%;
     }
+    .contact a{
+        margin-left: 2px;
+    }
   }
