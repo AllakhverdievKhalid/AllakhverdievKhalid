@@ -96,7 +96,7 @@ margin-top: 5px;
     }
     .section-body{
        margin: 0%;
-       padding: 0;
+       padding: 20px;
     }
     .contact {
         font-size: 12px;
@@ -108,6 +108,6 @@ margin-top: 5px;
       font-size: 18px;
     }
     .avatar{
-        margin-left: 10%;
+        padding: 20px;
     }
   }
