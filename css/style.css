@@ -90,7 +90,7 @@ margin-top: 5px;
 }
 @media only screen 
   and (min-device-width: 239px) 
-  and (max-device-width: 445px){
+  and (max-device-width: 768px){
     .section-sidebar{
         display: none;
     }
