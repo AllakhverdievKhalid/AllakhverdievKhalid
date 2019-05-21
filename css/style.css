@@ -100,4 +100,8 @@ margin-top: 5px;
     .contact a{
         margin-left: 2px;
     }
+    .section-name{
+        display: flex;
+        align-items: flex-start;
+    }
   }
